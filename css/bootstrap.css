@@ -22,6 +22,7 @@
 }
 p{
   color: tomato;
+  font-style: italic;
 }
 ol{
   color: indigo;
@@ -34,4 +35,10 @@ h3{
 }
 h4{
   color: blueviolet;
+}
+.highlight{
+  color: magenta;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
 }
