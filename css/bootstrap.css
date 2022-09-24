@@ -24,9 +24,11 @@
 p{
   color: tomato;
   font-style: italic;
+  font-size: 18px;
 }
 ol{
   color: indigo;
+  font-size: 22px;
 }
 h1{
   color: blueviolet;
@@ -45,5 +47,5 @@ h4{
 }
 body{
   line-height: 1.5;
-  background-color: papayawhip;
+  background-color: #ffefd5;
 }
